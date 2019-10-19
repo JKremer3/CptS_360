@@ -1,0 +1,9 @@
+gd.c output
+
+EXT2 FS OK
+bg_block_bitmap = 8
+bg_inode_bitmap = 9
+bg_inode_table = 10
+bg_free_blocks_count = 1389
+bg_free_inodes_count = 165
+bg_used_dirs_count = 6

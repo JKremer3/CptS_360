@@ -1,0 +1,9 @@
+balloc.c output
+
+ninodes=184 nblocks=1440 nfreeInodes=165 nfreeBlocks=1379
+bmap = 8
+allocated block = 59
+allocated block = 60
+allocated block = 61
+allocated block = 62
+allocated block = 63
