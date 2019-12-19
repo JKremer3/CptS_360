@@ -1,2 +1,3 @@
-# CptS_360
-Programming Assignments from cpts 360
+# Systems Programming
+
+Projects from the Systems Programming Course at Washington State University (CptS 360)
